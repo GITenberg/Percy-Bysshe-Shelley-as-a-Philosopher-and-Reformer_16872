@@ -1,0 +1,36 @@
+_repo: Percy-Bysshe-Shelley-as-a-Philosopher-and-Reformer_16872
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Frederickson, Charles William
+    alias: Frederickson, C. W. (Charles William)
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '6989'
+    url: http://www.gutenberg.org/2009/agents/6989
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sotheran, Charles
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '6988'
+    url: http://www.gutenberg.org/2009/agents/6988
+description: ''
+gutenberg_issued: '2005-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16872'
+  lccn: '12038878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Philosophy'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Political and social views'
+title: Percy Bysshe Shelley as a Philosopher and Reformer
+url: http://www.gutenberg.org/ebooks/16872
